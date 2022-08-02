@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "440618077852",
+    "project_id": "workosarabic-c3a9d",
+    "storage_bucket": "workosarabic-c3a9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440618077852:android:c3c73917f49f8812596759",
+        "android_client_info": {
+          "package_name": "com.example.taskapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440618077852-jl0pcr1v0n1au274cuuud5cscb0lbnbb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDtDw1Y5Yecqd45JSLso7Zqo6JpZUCUVk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440618077852-jl0pcr1v0n1au274cuuud5cscb0lbnbb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
